@@ -1,6 +1,6 @@
 # 🍇  GRAP Protocol  🍇
 ## The Protocol
-Yam is an experimental protocol building upon the most exciting innovations in programmable money and governance. Built by a team of DeFi natives, it seeks to create:
+GRAP is an experimental protocol building upon the most exciting innovations in programmable money and governance. Built by a team of DeFi natives, it seeks to create:
 
 •	an elastic supply to seek eventual price stability<br/>
 •	a governable treasury to further support stability<br/>
